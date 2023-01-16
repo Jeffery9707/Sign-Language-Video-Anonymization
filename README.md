@@ -1,6 +1,8 @@
 # Sign Language Video Anonymization
+
 Publication:
-Xia, Zhaoyang, Yuxiao Chen, Qilong Zhangli, Matt Huenerfauth, Carol Neidle, and Dimitri Metaxas. Sign language video anonymization. In Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources (LREC), pages 202–211, 2022
+
+Sign language video anonymization. Xia, Zhaoyang, Yuxiao Chen, Qilong Zhangli, Matt Huenerfauth, Carol Neidle, and Dimitri Metaxas. In Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources (LREC), pages 202–211, 2022
 
 [[PDF](https://www.sign-lang.uni-hamburg.de/lrec/pub/22038.pdf)]
 
