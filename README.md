@@ -8,7 +8,7 @@ Sign language video anonymization. Xia, Zhaoyang, Yuxiao Chen, Qilong Zhangli, M
 
 ## This repository contains demos for Sign Language-Video Anonymization paper in LREC'22 sign-lang workshop.
 
-## Example Anonymization results:
+## Anonymization result examples:
 ![Screenshot](demos/dsp_example.gif)
 ![Screenshot](demos/lrp_example.gif)
 
